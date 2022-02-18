@@ -4,7 +4,7 @@ function newEl (a, b) {
 }
 
 newEl('head', document.querySelector('html'));
-var metaEl = document.createElement('meta');
+const metaEl = document.createElement('meta');
 metaEl.charset = 'utf-8';
 document.title = 'Nice Noice Studio';
 document.querySelector('head').appendChild(metaEl);
