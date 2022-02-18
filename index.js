@@ -9,3 +9,5 @@ metaEl.charset = 'utf-8';
 document.title = 'Nice Noice Studio';
 document.querySelector('head').appendChild(metaEl);
 newEl('body', document.querySelector('html'));
+
+import './select.js';
