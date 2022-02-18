@@ -1,3 +1,1 @@
-import './menu.js';
-const main = document.getElementById("main");
-export { main };
+// Nothing here yet...
