@@ -7,3 +7,10 @@ body {
 a {
   color: white;
 }
+
+.button {
+  background: rgb(50, 100, 100);
+  color: white;
+  font-family: "calibri";
+}
+
